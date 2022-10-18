@@ -31,11 +31,9 @@
             "id": "cba54ea5a5ca25ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "7班日志/第一天报道 2022-8-19.md",
-                "mode": "source",
-                "source": false
+                "file": "7班日志/attachments/Pasted image 20221018184516.png"
               }
             }
           }
@@ -106,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7班日志/第一天报道 2022-8-19.md",
+                "file": "7班日志/attachments/Pasted image 20221018184516.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7班日志/第一天报道 2022-8-19.md",
+                "file": "7班日志/attachments/Pasted image 20221018184516.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7班日志/第一天报道 2022-8-19.md"
+                "file": "7班日志/attachments/Pasted image 20221018184516.png"
               }
             }
           }
@@ -162,11 +160,11 @@
   },
   "active": "cba54ea5a5ca25ab",
   "lastOpenFiles": [
+    "7班日志/班级日志目录（7班).md",
+    "7班日志/第一天报道 2022-8-19.md",
     "Pasted image 20221018184351.png",
     "7班日志/2022年10月.md",
     "7班日志/attachments/Pasted image 20221012214742.png",
-    "7班日志/第一天报道 2022-8-19.md",
-    "7班日志/班级日志目录（7班).md",
     "班级日志-2022年9月.md",
     "Garden ⭐️7⭐️.md",
     "home.md"
