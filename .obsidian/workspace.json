@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "亲子成长学习笔记/怎样培养孩子的专注力.md",
+                "file": "Templates/TP-People.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "亲子成长学习笔记/怎样培养孩子的专注力.md",
+                "file": "Templates/TP-People.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "亲子成长学习笔记/怎样培养孩子的专注力.md",
+                "file": "Templates/TP-People.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "亲子成长学习笔记/怎样培养孩子的专注力.md"
+                "file": "Templates/TP-People.md"
               }
             }
           }
@@ -163,15 +163,15 @@
   },
   "active": "acfc59eb02e95006",
   "lastOpenFiles": [
-    "亲子成长学习笔记/怎样培养孩子的自驱力？.md",
-    "亲子成长学习笔记/第一天报道 2022-8-19.md",
-    "我的数字花园/本站部署方式说明.md",
-    "我的数字花园/Garden⭐️14⭐️.md",
-    "我的数字花园/14班的多彩活动大集合.md",
-    "亲子成长学习笔记/班级日志目录（7班).md",
-    "home.md",
-    "亲子成长学习笔记/2022年10月.md",
-    "我的数字花园/多彩活动/2022-10-14 合唱大赛.md",
-    "班级日志-2022年9月.md"
+    "Templates/TP-Story.md",
+    "Templates/TP-zettle moc.md",
+    "Templates/Zettlekasten Permanent Note Template demo.md",
+    "Templates/Weekly Banner.jpg",
+    "Templates/TP-Resonance.md",
+    "Templates/TP-People.md",
+    "Templates/TP-Fleetingnote.md",
+    "Templates/template-blog.md",
+    "Templates/ReadNote.md",
+    "Templates/MovieNote.md"
   ]
 }
