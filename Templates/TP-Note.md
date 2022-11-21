@@ -1,6 +1,6 @@
 ---
 Title: {{title}} 
-Type: note, #Literature-Notes 
+Type: note
 Aliases: 
 Date: {{date:YYYY-MM-DD}},{{date:ddd}},{{time:HH:mm:ss}} 
 Statues: ToPrettify 
