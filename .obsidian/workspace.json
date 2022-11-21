@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "亲子成长学习笔记/怎样培养孩子的专注力.md",
+                "file": "亲子成长学习笔记/怎样培养孩子的自驱力？.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "亲子成长学习笔记/怎样培养孩子的专注力.md",
+                "file": "亲子成长学习笔记/怎样培养孩子的自驱力？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "亲子成长学习笔记/怎样培养孩子的专注力.md",
+                "file": "亲子成长学习笔记/怎样培养孩子的自驱力？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "亲子成长学习笔记/怎样培养孩子的专注力.md"
+                "file": "亲子成长学习笔记/怎样培养孩子的自驱力？.md"
               }
             }
           }
@@ -163,15 +163,15 @@
   },
   "active": "acfc59eb02e95006",
   "lastOpenFiles": [
-    "home.md",
-    "Templates/TP-Note.md",
-    "Templates/TP-People.md",
+    "亲子成长学习笔记/怎样培养孩子的专注力.md",
     "Templates/TP-Story.md",
-    "Templates/TP-zettle moc.md",
     "Templates/Zettlekasten Permanent Note Template demo.md",
+    "Templates/TP-zettle moc.md",
+    "Templates/TP-People.md",
+    "Templates/TP-Note.md",
+    "home.md",
     "Templates/Weekly Banner.jpg",
     "Templates/TP-Resonance.md",
-    "Templates/TP-Fleetingnote.md",
-    "Templates/template-blog.md"
+    "Templates/TP-Fleetingnote.md"
   ]
 }
