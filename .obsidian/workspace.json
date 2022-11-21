@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home.md",
+                "file": "亲子成长学习笔记/怎样培养孩子的专注力.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home.md",
+                "file": "亲子成长学习笔记/怎样培养孩子的专注力.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home.md",
+                "file": "亲子成长学习笔记/怎样培养孩子的专注力.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home.md"
+                "file": "亲子成长学习笔记/怎样培养孩子的专注力.md"
               }
             }
           }
@@ -163,6 +163,7 @@
   },
   "active": "acfc59eb02e95006",
   "lastOpenFiles": [
+    "home.md",
     "Templates/TP-Note.md",
     "Templates/TP-People.md",
     "Templates/TP-Story.md",
@@ -171,7 +172,6 @@
     "Templates/Weekly Banner.jpg",
     "Templates/TP-Resonance.md",
     "Templates/TP-Fleetingnote.md",
-    "Templates/template-blog.md",
-    "Templates/ReadNote.md"
+    "Templates/template-blog.md"
   ]
 }
