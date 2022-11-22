@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4888800cdcffadad",
+        "id": "c64d323d56fcdc61",
         "type": "tabs",
         "children": [
           {
-            "id": "21bcc27552130b61",
+            "id": "326a5089406916a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "亲子成长学习笔记/怎样培养孩子的内驱力？.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "acfc59eb02e95006",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "亲子成长学习笔记/怎样培养孩子的专注力.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8060dab72e4624a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "我的数字花园/本站部署方式说明.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "亲子成长学习笔记/怎样培养孩子的专注力.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "亲子成长学习笔记/怎样培养孩子的专注力.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "亲子成长学习笔记/怎样培养孩子的专注力.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -161,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "acfc59eb02e95006",
+  "active": "326a5089406916a6",
   "lastOpenFiles": [
+    "我的数字花园/本站部署方式说明.md",
+    "Templates/TP-Note.md",
     "亲子成长学习笔记/怎样培养孩子的内驱力？.md",
+    "我的数字花园/皮格马利翁效应.md",
     "亲子成长学习笔记/怎样培养孩子的专注力.md",
     "Templates/TP-Story.md",
     "Templates/Zettlekasten Permanent Note Template demo.md",
     "Templates/TP-zettle moc.md",
     "Templates/TP-People.md",
-    "Templates/TP-Note.md",
-    "home.md",
-    "Templates/Weekly Banner.jpg",
-    "Templates/TP-Resonance.md"
+    "home.md"
   ]
 }
