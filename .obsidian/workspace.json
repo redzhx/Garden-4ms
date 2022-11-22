@@ -11,8 +11,12 @@
             "id": "326a5089406916a6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "亲子成长学习笔记/怎样培养孩子的内驱力？.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "亲子成长学习笔记/怎样培养孩子的内驱力？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "亲子成长学习笔记/怎样培养孩子的内驱力？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "亲子成长学习笔记/怎样培养孩子的内驱力？.md"
+              }
             }
           }
         ]
