@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home.md",
+                "file": "我的数字花园/皮格马利翁效应.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home.md",
+                "file": "我的数字花园/皮格马利翁效应.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home.md",
+                "file": "我的数字花园/皮格马利翁效应.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home.md"
+                "file": "我的数字花园/皮格马利翁效应.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "326a5089406916a6",
   "lastOpenFiles": [
-    "亲子成长学习笔记/怎样培养孩子的内驱力？.md",
     "我的数字花园/本站部署方式说明.md",
+    "home.md",
+    "亲子成长学习笔记/怎样培养孩子的内驱力？.md",
     "Templates/TP-Note.md",
     "我的数字花园/皮格马利翁效应.md",
     "亲子成长学习笔记/怎样培养孩子的专注力.md",
     "Templates/TP-Story.md",
     "Templates/Zettlekasten Permanent Note Template demo.md",
     "Templates/TP-zettle moc.md",
-    "Templates/TP-People.md",
-    "home.md"
+    "Templates/TP-People.md"
   ]
 }
