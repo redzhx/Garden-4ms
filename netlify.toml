@@ -13,7 +13,7 @@ LANDING_PAGE = "home"
 LANDING_TITLE = "生有涯而知无涯! 💖"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
-REPO_URL = "https://github.com/redzhx/Garden-4ms-zola.git"
+REPO_URL = "https://github.com/redzhx/Garden-4ms.git"
 # (Optional) Site title in navbar
 SITE_TITLE = "Someone's Second 🧠"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
